@@ -1,0 +1,21 @@
+{
+  "name": "node-cepstral",
+  "description": "Cepstral TTS (text to speech) integration for node.js",
+  "keywords": [
+    "tts",
+    "cepstral"
+  ],
+  "version": "0.0.1",
+  "author": "Joel Vandal",
+  "contributors": [
+    "Joel Vandal <joel@vandal.ca> (http://joel.vandal.ca/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jvandal74/node-cepstral.git"
+  },
+  "dependencies": {
+  },
+  "engine": [ "node >=0.3.0" ],
+  "main": "cepstral.js"
+}
